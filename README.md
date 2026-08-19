@@ -1,4 +1,4 @@
-#Tech-assignment
+# Tech-assignment
 
 Playwright end-to-end test automation for [Swag Labs](https://www.saucedemo.com/).
 
